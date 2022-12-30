@@ -1,0 +1,27 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+    background-color: rgb(99, 37, 117) ;
+    width: 250px;
+    height: 280px;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 30px 30px;
+    box-shadow: rgb(45, 19, 75) 0px 20px 30px -10px;
+    color: rgb(172, 223, 214);
+    opacity: 0.95;
+    margin-left: 40px;
+}
+ul{
+    list-style: none;
+}
+p{
+    font-size: 20px;
+    color: rgb(205, 205, 248);
+}
+h3{
+    font-size: 30px;
+    margin-bottom: 30px;
+}

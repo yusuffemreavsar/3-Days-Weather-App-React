@@ -1,3 +1,7 @@
+# 3 Days Weather App React UI
+![github1](https://user-images.githubusercontent.com/100023813/210057257-6874c685-9f50-466e-8f95-c1d6c879a706.png)
+![github2](https://user-images.githubusercontent.com/100023813/210057432-7cab062e-50bc-4b1d-a451-65515e6dfe24.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
